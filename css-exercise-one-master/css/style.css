@@ -1,0 +1,31 @@
+body
+  font-size: 14px; /*standard font size for all body elements unless overriden*/
+}
+
+nav {
+  background color: yellow; /*nav bar background color*/
+  height: 100px; /*nav bar height*/
+  margin-top: -10px; /*nav bar margin*/
+  position: fixed; /*position is fixed*/
+  width: 100%; /*width fills whole screen*/
+}
+
+section {
+  margin: 0 auto; /*margin for sections*/
+  width: 60%; /*width fills sixty percent of screen*/
+}
+
+.example h1 {
+  font-family sans-serif; /*font for primary header*/
+  font-size: 2em; /*font size for primary header*/
+  padding-top: 30px; /*padding for primary header*/
+  text-align center /*alignment for primary header*/
+}
+
+.element h3 {
+  font-size: 1.3em; /*font size for h3*/
+  background-color: green; /*background color for h3*/
+  height: 100px; /*height for h3*/
+  margin 10px 0; /*margin for h3*/
+  width: 100%; /*h3 fills whole screen*/
+}

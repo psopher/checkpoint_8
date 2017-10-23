@@ -29,3 +29,7 @@ section {
   margin 10px 0; /*margin for h3*/
   width: 100%; /*h3 fills whole screen*/
 }
+
+.element.blue h3 {
+  background-color: blue; /*background color for element1*/
+}
